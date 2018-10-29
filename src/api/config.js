@@ -1,11 +1,11 @@
 export default {
-  appname: 'platzimusic',
-  apikey: '0e40891de9aacf8c195794487bf83a70',
-  secret: 'fe9917c86e95e4d9a0d9fe9437d19f3c',
+  appname: 'platzimusic-vue',
+  apikey: '04ef44a4652ffcdb9e45044eb56fb3ce',
+  secret: 'd042966f45793959ff880cff2fa27d39',
   regesterTo: 'jfonsecat'
 }
-
-// Application name	platzimusic
-// API key	0e40891de9aacf8c195794487bf83a70
-// Shared secret	fe9917c86e95e4d9a0d9fe9437d19f3c
-// Registered to	jfonsecat
+/* 
+Application name	platzimusic-vue
+API key	04ef44a4652ffcdb9e45044eb56fb3ce
+Shared secret	d042966f45793959ff880cff2fa27d39
+Registered to	jfonsecat */
